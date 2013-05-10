@@ -1,13 +1,13 @@
 # Building an Echo Actor
 Source file for [lesson 1 ](http://hubiquitus.com/2013/04/24/lecon-1-echo-avec-hubiquitus/)
 
-- Running Engine/Topology
+- Start the Engine/Topology
 
 ```
 node launch.js
 ```
 
-- Running
+- Start the client
 
 ```
 node client.js -echo MyName
